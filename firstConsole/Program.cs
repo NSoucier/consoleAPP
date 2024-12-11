@@ -8,7 +8,7 @@ Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate}!");
 Console.WriteLine($"{Environment.NewLine}Press any key to exit...");
 Console.ReadKey(true);
 
-// Tutorial using a package
+// Tutorial using a package found at https://www.nuget.org/packages/PasswordGenerator
 var pwd = new Password();
 var password = pwd.Next();
 Console.WriteLine(password.ToString());
