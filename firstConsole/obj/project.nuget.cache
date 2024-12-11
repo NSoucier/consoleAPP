@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Zx8qP62die0=",
+  "dgSpecHash": "qFAIwdhw0Io=",
   "success": true,
   "projectFilePath": "C:\\Users\\Natha\\OneDrive\\Documents\\DotNET\\consoleAPP\\firstConsole\\firstConsole.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Natha\\.nuget\\packages\\passwordgenerator\\2.1.0\\passwordgenerator.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

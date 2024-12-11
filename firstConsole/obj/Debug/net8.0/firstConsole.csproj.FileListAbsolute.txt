@@ -12,3 +12,7 @@ C:\Users\Natha\OneDrive\Documents\DotNET\consoleAPP\firstConsole\obj\Debug\net8.
 C:\Users\Natha\OneDrive\Documents\DotNET\consoleAPP\firstConsole\obj\Debug\net8.0\firstConsole.pdb
 C:\Users\Natha\OneDrive\Documents\DotNET\consoleAPP\firstConsole\obj\Debug\net8.0\firstConsole.genruntimeconfig.cache
 C:\Users\Natha\OneDrive\Documents\DotNET\consoleAPP\firstConsole\obj\Debug\net8.0\ref\firstConsole.dll
+C:\Users\Natha\OneDrive\Documents\DotNET\consoleAPP\firstConsole\bin\Debug\net8.0\PasswordGenerator.dll
+C:\Users\Natha\OneDrive\Documents\DotNET\consoleAPP\firstConsole\obj\Debug\net8.0\firstConsole.csproj.AssemblyReference.cache
+C:\Users\Natha\OneDrive\Documents\DotNET\consoleAPP\firstConsole\obj\Debug\net8.0\firstConsole.sourcelink.json
+C:\Users\Natha\OneDrive\Documents\DotNET\consoleAPP\firstConsole\obj\Debug\net8.0\firstCon.3FB5B76F.Up2Date
