@@ -6,5 +6,5 @@ Created a console app that has multiple features:
 - Module that acts as a virtual fortune cookie message
 
 To run project:
-dotnet build
-dotnet run
+- dotnet build
+- dotnet run
