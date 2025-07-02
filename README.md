@@ -10,5 +10,9 @@ To run project:
 - dotnet run
 
 To make changes to published project:
-- dotnet build --configuration Release
+- dotnet build -c Release
 - dotnet publish -c Release
+
+To view published project:
+- Navigate to .\firstConsole\bin\Release\net8.0\
+- run firstConsole.exe
