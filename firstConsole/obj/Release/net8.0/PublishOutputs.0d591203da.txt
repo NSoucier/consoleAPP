@@ -1,0 +1,6 @@
+C:\Users\Natha\OneDrive\Documents\DotNET\consoleAPP\firstConsole\bin\Release\net8.0\publish\firstConsole.exe
+C:\Users\Natha\OneDrive\Documents\DotNET\consoleAPP\firstConsole\bin\Release\net8.0\publish\firstConsole.dll
+C:\Users\Natha\OneDrive\Documents\DotNET\consoleAPP\firstConsole\bin\Release\net8.0\publish\firstConsole.deps.json
+C:\Users\Natha\OneDrive\Documents\DotNET\consoleAPP\firstConsole\bin\Release\net8.0\publish\firstConsole.runtimeconfig.json
+C:\Users\Natha\OneDrive\Documents\DotNET\consoleAPP\firstConsole\bin\Release\net8.0\publish\firstConsole.pdb
+C:\Users\Natha\OneDrive\Documents\DotNET\consoleAPP\firstConsole\bin\Release\net8.0\publish\PasswordGenerator.dll

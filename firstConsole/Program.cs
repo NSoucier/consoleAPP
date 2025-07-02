@@ -12,7 +12,7 @@ Console.ReadKey(true);
 // Tutorial using a package found at https://www.nuget.org/packages/PasswordGenerator
 var pwd = new Password();
 var password = pwd.Next();
-Console.WriteLine(password.ToString());
+Console.WriteLine($"Password: {password.ToString()}");
 
 
 // Methods tutorial from https://learn.microsoft.com/en-ca/training/modules/write-first-c-sharp-method/3-exercise-create-your-first-method
@@ -164,23 +164,26 @@ string[] neutral = {"appreciate.", "enjoy time with friends.", "should align wit
 
 WriteFortune(); //random fortune
 
-luck = 1;
-WriteFortune(); // bad fortune
+// luck = 1;
+// WriteFortune(); // bad fortune
 
-luck = 50;
-WriteFortune(); // neutral fortune
+// luck = 50;
+// WriteFortune(); // neutral fortune
 
-luck = 99;
-WriteFortune(); // good fortune
+// luck = 99;
+// WriteFortune(); // good fortune
 
 void WriteFortune()
 {
-    Console.WriteLine("A fortune teller whispers the following words:");
+    Console.WriteLine("You crack open your crisp fortune cookie and it reads:");
     string[] fortune = (luck > 75 ? good : (luck < 25 ? bad : neutral));
 
     for (int i = 0; i < 4; i++)
     {
         Console.Write($"{text[i]} {fortune[i]} ");
     }
+
+    Console.WriteLine($"{Environment.NewLine}Press any key to exit...");
+    Console.ReadKey(true);
 }
 

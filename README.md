@@ -8,3 +8,7 @@ Created a console app that has multiple features:
 To run project:
 - dotnet build
 - dotnet run
+
+To make changes to published project:
+- dotnet build --configuration Release
+- dotnet publish -c Release
